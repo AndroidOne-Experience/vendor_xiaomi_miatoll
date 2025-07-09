@@ -1005,7 +1005,7 @@ PRODUCT_PACKAGES += \
     wifidisplayhalservice \
     xtra-daemon \
     dpmd \
-    wfdservice64
+    wfdservice
 
 PRODUCT_PACKAGES += \
     system_system_priv-app_MiuiCamera_lib_arm64_libcamera_algoup_jni_xiaomi_so \
