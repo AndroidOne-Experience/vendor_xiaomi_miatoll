@@ -414,6 +414,7 @@ PRODUCT_PACKAGES += \
     libwfddisplayconfig_proprietary \
     libwfdhdcpcp \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
+    aoc_audio_stereo_spatializer \
     btaudio_offload_if \
     audio.bluetooth_qti.default \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
@@ -466,6 +467,7 @@ PRODUCT_PACKAGES += \
     libwfdutils_proprietary \
     libasphere \
     libshoebox \
+    libspatialaudio \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
     com.qti.eeprom.sunny_gc8034 \
     com.qti.sensor.curtana_gc02m1 \
