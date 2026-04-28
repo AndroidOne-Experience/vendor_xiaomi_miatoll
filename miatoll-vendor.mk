@@ -418,7 +418,6 @@ PRODUCT_PACKAGES += \
     libqsocket \
     libwfddisplayconfig_proprietary \
     libwfdhdcpcp \
-    libdlbvol \
     libswdap \
     libswgamedap \
     libswvqe \
