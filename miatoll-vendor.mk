@@ -926,7 +926,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
-    vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
+    vendor.qti.hardware.wifidisplaysession_aidl-V2-ndk \
     vendor.qti.imsrtpservice@3.0 \
     MiuiExtraPhoto \
     CACertService \
@@ -1007,7 +1007,7 @@ PRODUCT_PACKAGES += \
     wifidisplayhalservice \
     xtra-daemon \
     dpmd \
-    wfdservice
+    wfdservice64
 
 PRODUCT_PACKAGES += \
     system_system_priv-app_MiuiCamera_lib_arm64_libcamera_algoup_jni_xiaomi_so \
